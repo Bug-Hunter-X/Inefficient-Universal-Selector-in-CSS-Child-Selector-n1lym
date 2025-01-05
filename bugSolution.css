@@ -1,0 +1,1 @@
+Instead of using the universal selector, it's recommended to specifically target the elements you want to style within the ".container" element. For example, if you want to style all paragraphs within the container, use the following:  .container p { color: blue; } This approach is more efficient and reduces the risk of unintended style changes.
